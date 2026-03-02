@@ -15,19 +15,17 @@
 
   ### Why I started building
 
-  Most of my career has been spent in rooms where someone identifies a problem, someone else documents it, and then everyone waits for an engineer to build the solution — if it ever gets prioritized at all.
+  Throughout my career I've always looked for the gaps: gaps in tools, gaps in processes, gaps in what customers actually need. I was never technical enough to fill them, until now.
 
-  I've seen this in consulting, in financial services, and working alongside early-stage startups. There are a lot of good ideas that never ship because the gap between "someone who understands the problem" and "someone who can build the thing" is too wide.
+  I'm using AI to build things I wish I had. Not to produce production-grade software, but to experiment and play around while potentially filling those gaps for others. There are a lot of good ideas that never ship because the distance between "someone who understands the problem" and "someone who can build the thing" is too wide. AI has made that a lot narrower, and I'm taking advantage of it.
 
-  AI has made that gap a lot narrower. I'm not a software engineer, but I've found that I can now take the gaps I've spent years observing — in strategy tools, in how organizations capture institutional knowledge, in how teams make decisions — and actually experiment with solutions rather than just describe them.
-
-  That's mostly what this is. Experiments. Some of them turn into real projects. Some don't. But I'd rather try and find out.
+  That's mostly what this is. Experiments. Some turn into real projects. Some don't. But I'd rather try and find out.
 
   ---
 
   ### What I actually do (outside the job title)
 
-  I'm a PM who codes. Not "I took a bootcamp" codes — I build and ship production tools. My repos are working software, not portfolio pieces. The Army taught me to execute under ambiguity; EY taught me to structure problems; JPMorgan is where I apply both at scale.
+  I'm a PM who codes. Not "I took a bootcamp" codes. I build and ship production tools. My repos are working software, not portfolio pieces. The Army taught me to execute under ambiguity; EY taught me to structure problems; JPMorgan is where I apply both at scale.
 
   ---
 
