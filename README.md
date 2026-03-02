@@ -25,7 +25,7 @@
 
   ### What I actually do (outside the job title)
 
-  I'm a PM who codes. Not "I took a bootcamp" codes. I build and ship production tools. My repos are working software, not portfolio pieces. The Army taught me to execute under ambiguity; EY taught me to structure problems; JPMorgan is where I apply both at scale.
+  I'm a PM who (vibe) codes. Not "I took a bootcamp" codes. I build and ship non-production tools. My repos are supposed to be working software, not portfolio pieces. The Army taught me to execute under ambiguity; EY taught me to structure problems; JPMorgan is where I apply both at scale.
 
   ---
 
