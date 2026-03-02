@@ -13,17 +13,15 @@
  
   - ---
 
-  ### On being a builder in the age of AI
+  ### Why I started building
 
-  The line between "PM" and "engineer" is collapsing — and I think that's the most interesting thing happening in tech right now.
+  Most of my career has been spent in rooms where someone identifies a problem, someone else documents it, and then everyone waits for an engineer to build the solution — if it ever gets prioritized at all.
 
-  For most of software history, building required years of specialization. Ideas were cheap; execution was the bottleneck. AI flips this. The bottleneck is shifting back toward judgment: knowing *what* to build, *why* it matters, and *how* to direct capable tools toward the right outcome.
+  I've seen this in consulting, in financial services, and working alongside early-stage startups. There are a lot of good ideas that never ship because the gap between "someone who understands the problem" and "someone who can build the thing" is too wide.
 
-  I'm betting my career on this shift. Not by pretending to be a senior engineer — I'm not — but by developing enough fluency to move from idea to working software without waiting for someone else's capacity. I can spec a system, scaffold it, ship it, and iterate. That loop used to take a team and a quarter. Now it can take a weekend.
+  AI has made that gap a lot narrower. I'm not a software engineer, but I've found that I can now take the gaps I've spent years observing — in strategy tools, in how organizations capture institutional knowledge, in how teams make decisions — and actually experiment with solutions rather than just describe them.
 
-  The PMs who will matter most in the next decade aren't the ones who write the best PRDs. They're the ones who can sit down, open a terminal, and make something real.
-
-  That's what I'm trying to become.
+  That's mostly what this is. Experiments. Some of them turn into real projects. Some don't. But I'd rather try and find out.
 
   ---
 
