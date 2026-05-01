@@ -1,6 +1,6 @@
 # Hey, I'm Nick 👋
 
-PM by day. I tinker with code on nights and weekends because I like the act of building things.
+PM by day. I tinker with code on nights and weekends and stay awake until my Claude tokens run out.
 
 🌐 [nicklanahan.com](https://nicklanahan.com)
 
@@ -8,7 +8,7 @@ PM by day. I tinker with code on nights and weekends because I like the act of b
 
 ### What I'm into
 
-I like poking at problems I run into and seeing if I can build something small that helps. Most of what's here is me learning out loud — small experiments, half-finished ideas, occasional things that turn into something real. AI has made it possible for me to actually ship the stuff I used to only sketch on whiteboards, and I'm enjoying that a lot.
+I like solving problems and building things. AI has made it possible for me to actually ship the stuff I used to only sketch on whiteboards, and I'm enjoying that a lot.
 
 I'm partial to TypeScript, Python, and anything that lets me move fast.
 
@@ -27,7 +27,7 @@ These aren't polished products — just things I built to scratch an itch or lea
 
 ---
 
-### Stack I reach for
+### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
