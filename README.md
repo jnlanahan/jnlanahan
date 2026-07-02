@@ -8,10 +8,8 @@ If you want to learn more about me on a personal level, go to my website, [nickl
 
 ### What I'm building
 
-**Public tools**
-- An AI pipeline that reads scattered local government sources and puts every public meeting and event in a city on one map · [CivicGrid](https://github.com/jnlanahan/CivicGrid)
-
 **Consumer apps**
+- Real-time alerts about safety concerns in your neighborhood, fed automatically from live sources like police scanners and verified Waze-style by the community · [CivicGrid](https://github.com/jnlanahan/CivicGrid)
 - Drops the actual furniture you're shopping for into a photo of your actual room, at scale *(DreamSpace, private)*
 - Turns one selfie into a professional headshot you can refine by talking to it *(ProShot AI, private)*
 - Live two-way translation on one phone, with each person's translation sent to a different earbud · [Live Translator](https://github.com/jnlanahan/Dual-Ear-Translate)
