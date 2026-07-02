@@ -1,47 +1,45 @@
-# Hey, I'm Nick 👋
+# Hi, I'm Nick
 
-PM by day. I tinker with code on nights and weekends and stay awake until my Claude tokens run out.
+I'm a product manager without a technical background. I started vibe coding in Lovable and v0, moved on to Claude Code and other AI tools, and now I'm working on taking my apps to production-level readiness. It's been a long road, and I've been able to learn and grow to a level I could not have imagined before.
 
-🌐 [nicklanahan.com](https://nicklanahan.com)
+The world is changing. Before long, people won't need to rely on someone else to build the tools they need. I'm trying to get a head start on that. So I build, using the same product management fundamentals I use in my day job, and I try to adapt to how the world is going to work rather than how it works today.
 
----
+If you want to learn more about me on a personal level, go to my website, [nicklanahan.com](https://nicklanahan.com), where I've trained an assistant to answer any questions you have about me. If you want to see my work, stay here, or read the summaries on my site.
 
-### What I'm into
+### What I'm building
 
-I like solving problems and building things. AI has made it possible for me to actually ship the stuff I used to only sketch on whiteboards, and I'm enjoying that a lot.
+**Public tools**
+- An AI pipeline that reads scattered local government sources and puts every public meeting and event in a city on one map · [CivicGrid](https://github.com/jnlanahan/CivicGrid)
 
-I'm partial to TypeScript, Python, and anything that lets me move fast.
+**Consumer apps**
+- Drops the actual furniture you're shopping for into a photo of your actual room, at scale *(DreamSpace, private)*
+- Turns one selfie into a professional headshot you can refine by talking to it *(ProShot AI, private)*
+- Live two-way translation on one phone, with each person's translation sent to a different earbud · [Live Translator](https://github.com/jnlanahan/Dual-Ear-Translate)
+- Fully on-device, encrypted AI transcription for people in confidential jobs *(CipherNote, private)*
+- Resume tailoring that tightens wording for a specific job while keeping every fact locked · [Resume Studio](https://github.com/jnlanahan/ResumeStudioAI)
+- One place for brands, athletes, and school compliance officers to create, sign, and track NIL deals *(DealFlow, private)*
+- Turns a kid's current obsession into a print-ready custom coloring book *(private)*
 
----
+**Personal tools**
+- A desktop coach that watches your screen as you work and tells you the one next step · [SightLine](https://github.com/jnlanahan/SightLine)
+- A browser extension that highlights AI-generated passages on any page you're reading · [AI Text Detective](https://github.com/jnlanahan/AITextDetect)
+- Reads the 10-K, scores management's tone, and weighs it against the financials through a chosen investor's lens · [Buffett Screener](https://github.com/jnlanahan/Buffet_Screener)
+- Scans live odds across sportsbooks and surfaces arbitrage and value bets on its own *(BetRight, private)*
 
-### A few public repos
+**Product work**
+- A library of Claude Code agents and skills that runs my product development lifecycle from discovery through deploy · [Product Agents & Skills](https://github.com/jnlanahan/Product-Agents-and-Skills)
+- A shared memory layer that feeds your team's context into whatever AI tool you already use *(TeamBrain, private)*
+- Competitive analysis that researches rivals, sorts features with the Kano model, and cites every claim · [KanoLens](https://github.com/jnlanahan/kanolens)
+- A strategy workspace that pulls market, competitor, and customer signals into one decision framework *(Vantage, private)*
+- A five-minute-a-day gym for reading code, with drills that train you to spot bugs and sketchy diffs · [Skim](https://github.com/jnlanahan/Skim)
+- Short gamified lessons that teach PMs just enough code to read, review, and debug *(CodePath, private)*
 
-- **[Skim](https://github.com/jnlanahan/Skim)** — TypeScript experiment in lightweight reading / summarization.
-- **[Buffet_Screener](https://github.com/jnlanahan/Buffet_Screener)** — Python tool that pulls SEC filings and runs Buffett-style screens on them.
-- **[kanolens](https://github.com/jnlanahan/kanolens)** — TypeScript side project I keep coming back to.
-- **[AITextDetect](https://github.com/jnlanahan/AITextDetect)** — small detector for AI-generated text.
-- **[Product-Agents-and-Skills](https://github.com/jnlanahan/Product-Agents-and-Skills)** — agents and skills I use for product work.
-- **[Leadership-and-Training-Tool-Research](https://github.com/jnlanahan/Leadership-and-Training-Tool-Research)** — research notes from looking at leadership/training tools.
-
-These aren't polished products — just things I built to scratch an itch or learn something.
-
----
-
-### Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat&logo=anthropic&logoColor=white)
-
----
+**Leadership tools**
+- A living picture of a military operation that flags what each change means for the plan · [Common Understanding Platform](https://github.com/jnlanahan/Common-Understanding-Platform-CUP-)
+- Fast first drafts of evaluations, counseling, awards, and OPORDs to Army writing standards *(Officer's Toolkit, private)*
+- A private coach where managers rehearse difficult conversations against configurable AI personas *(LeadRight, private)*
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-lanahan)
 [![Website](https://img.shields.io/badge/Website-nicklanahan.com-black?style=flat&logo=safari&logoColor=white)](https://nicklanahan.com)
-
-> *Columbus, OH*
