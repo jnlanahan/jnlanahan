@@ -21,7 +21,7 @@ If you want to learn more about me on a personal level, go to my website, [nickl
 **Personal tools**
 - A desktop coach that watches your screen as you work and tells you the one next step · [SightLine](https://github.com/jnlanahan/SightLine)
 - A browser extension that highlights AI-generated passages on any page you're reading · [AI Text Detective](https://github.com/jnlanahan/AITextDetect)
-- Reads the 10-K, scores management's tone, and weighs it against the financials through a chosen investor's lens · [Buffett Screener](https://github.com/jnlanahan/Buffet_Screener)
+- Reads the 10-K, scores management's tone, and weighs it against the financials through a chosen investor's lens · [Buffett Screener](https://github.com/jnlanahan/Buffett-Screener)
 - Scans live odds across sportsbooks and surfaces arbitrage and value bets on its own *(BetRight, private)*
 
 **Product work**
